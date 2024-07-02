@@ -1,3 +1,17 @@
+# proctedted Data files
+*.xml
+*.tex
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.txt
+*.aux
+*.toc
+*.dvi
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
